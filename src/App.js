@@ -8,7 +8,7 @@
 
 import React from 'react';
 import 'react-native-gesture-handler';
-import AppExport from './project/SplashDot';
+import AppExport from './project/DrawerNavigation5/App';
 
 const App = () => {
   return <AppExport />;
