@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-native-masked-view/masked-view": "^0.2.2",
     "@react-navigation/drawer": "^5.12.4",
+    "faker": "^5.4.0",
     "react": "16.13.1",
     "react-native": "0.63.4",
     "react-native-gesture-handler": "^1.10.3",

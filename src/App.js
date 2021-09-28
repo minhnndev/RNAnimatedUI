@@ -8,7 +8,7 @@
 
 import React from 'react';
 import 'react-native-gesture-handler';
-import AppExport from './project/DrawerNavigation5/App';
+import AppExport from './project/FlatListPickerSync/App';
 
 const App = () => {
   return <AppExport />;
